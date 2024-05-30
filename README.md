@@ -4,7 +4,7 @@
 
 2. The calculator functionalities are achieve based on the given task conditions.
 
-**To use the calculator kindly [click here]()**
+**To use the calculator kindly [click here](https://dombasiccalci.netlify.app/)**
 
 
         KINDLY CHECK.THANK YOU!
